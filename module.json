@@ -1,0 +1,15 @@
+{
+  "id": "vttmodtest",
+  "title": "vttmodtest - An Example FVTT Module",
+  "description": "Trying to learn how to make modules :)",
+  "authors": [
+    {
+    "name": "Chaot3ch"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  }
+}
